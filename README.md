@@ -2,4 +2,4 @@
 
 A .NET Core 2.2 C# Azure Function that can return client IP and User-Agent
 
-Blog post is on the way soon..
+Blog post: https://edi.wang/post/2019/8/10/create-azure-function-app-with-net-core-and-cd-from-github
